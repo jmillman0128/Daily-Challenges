@@ -1,6 +1,6 @@
 ################################
 # freeCodeCamp daily challenge 8/27/2025
-# Solution by Joshua Millman
+# Solution by Joshua Millman O(n)
 # Given an array of integers and operators, repeat operators as needed to return a result ignorning operator conventions.
 ################################
 def evaluate(numbers, operators):
